@@ -16,7 +16,7 @@ public class EjemploJava2021 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("hola -pon aqui un nombre-");
+        System.out.println("hola -pon aqui un nombre-escribe aqui algo mas");
     }
     
 }
